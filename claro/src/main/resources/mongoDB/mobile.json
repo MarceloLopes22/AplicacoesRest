@@ -1,0 +1,6 @@
+[
+{ "_id" : { "$oid" : "5b5fd7fc95f5992df405fc40" }, "price" : 1990, "model" : "Moto G5 Plus", "brand" : "Motorola", "photo" : "http://www3.claro.com.br/sites/default/files/claro-net-simples_5654b06692637-224x170_565c9453ee1bf.png​", "date" : "26/11/2015", "code" : "653d9688-af26-4ff1-b1a6-58c474fba27f" },
+{ "_id" : { "$oid" : "5b5fda0c95f5992df405fc43" }, "price" : 3990, "model" : "IPhone 7 Plus", "brand" : "Apple", "photo" : "http://www3.claro.com.br/sites/default/files/claro-net-simples_5654b06692637-224x170_565c9453ee1bf.png​", "date" : "25/12/2015", "code" : "d10e528f-9f2c-4271-9dc1-967bef224695" },
+{ "_id" : { "$oid" : "5b5fda8595f5992df405fc44" }, "_class" : "com.claro.mobile.api.entity.Mobile", "price" : 699, "model" : "J7", "brand" : "Samsung", "photo" : "http://www3.claro.com.br/sites/default/files/claro-net-simples_5654b06692637-224x170_565c9453ee1bf.png​", "date" : "01/11/2015", "code" : "ba59f136-9d1f-42bf-8f4a-826dca8dde5b" },
+{ "_id" : "2", "_class" : "com.claro.mobile.api.entity.Mobile", "price" : 1600, "model" : "Galaxy Y", "brand" : "Sansung", "photo" : "https://www.lojaiplace.com.br/iPlace/produto/iphone-x/iphone-x-apple-space-gray-mqac2bz-a/176805/", "date" : "01/08/2015", "code" : "galaxyY1234668876" }
+]
